@@ -3,12 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/beans/UserRes.java</file>
             <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/RestConfig.java</file>
+            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/ValidationMessages.properties</file>
             <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/Ejb/UserRepository.java</file>
+            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/beans/UserResources.java</file>
             <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/Entity/User.java</file>
-            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/Exception/ErrorMessage.java</file>
+            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/dbConfig.properties</file>
+            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/Db/DbHelper.java</file>
             <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/Ejb/UserRepositoryBean.java</file>
+            <file>file:/C:/Users/wilzone/Documents/NetBeansProjects/SignInToolAPI/src/java/RestClient/Exception/BeanValConstrainViolationExceptionMapper.java</file>
         </group>
     </open-files>
 </project-private>

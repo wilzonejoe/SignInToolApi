@@ -14,6 +14,7 @@ import javax.ws.rs.ext.Provider;
 /**
  *
  * @author wilzone
+ * Overriding the exception caused by constraint
  */
 @Provider
 public class BeanValConstrainViolationExceptionMapper implements ExceptionMapper<ConstraintViolationException>{

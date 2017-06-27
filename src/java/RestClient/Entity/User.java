@@ -18,9 +18,9 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class User implements Serializable{
     private String id;
-    @NotNull( message = "User's first name must not be null")
+    @NotNull( message = "{user.firstname.notnull}")
     private String firstName;
-    @NotNull( message = "User's last name must not be null")
+    @NotNull( message = "{user.lastname.notnull}")
     private String lastName;
     private Date signInTime;
     private Date signOutTime;
